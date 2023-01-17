@@ -26,7 +26,7 @@ import java.util.Date;
 public class MainActivity extends AppCompatActivity {
     private WebView webView;
 	private WebSettings webSettings;
-	private String link = "https://google.com";
+	private String link = "http://192.168.16.1:1000/fgtauth?02236a001cfa2337";
 //	
 	private long backPressedTime=0;
     @Override
